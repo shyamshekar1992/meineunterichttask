@@ -1,0 +1,13 @@
+***set up frontend***
+
+1.)navigate frontend folder and run "npm install"
+npm install
+
+2.)run "npm start" from frontend folder start the program
+***set up backend***
+
+2.)navigate backend folder and run "npm install"
+npm install
+
+after installing node_modules
+ run the command "node server.js" to start the server
